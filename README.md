@@ -1,7 +1,7 @@
-# protobuf-addressbook-py 
+# Protobuf-AddressBook-Py 
 'protobuf-addressbook-py' – A simple Address Book application which serialises & retrieves contact detail data to and from file using a Protocol Buffer with Python (Protobuf 3.17.3 / Protoc 3.17.3 / Python3.9).
 
-# setup
+# Setup
 
 brew install protobuf
 
