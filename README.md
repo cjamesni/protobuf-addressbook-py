@@ -4,7 +4,11 @@
 # setup
 
 brew install protobuf
+
 brew install protoc
+
 vim addressbook.proto
+
 see ref https://developers.google.com/protocol-buffers
+
 protoc -I=./ --python_out=./ ./addressbook.proto
