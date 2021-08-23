@@ -19,6 +19,6 @@ python -m pip install protobuf
 
 vim addressbook.proto
 
-see python ref https://developers.google.com/protocol-buffers/docs/tutorials
+see python ref [https://developers.google.com/protocol-buffers/docs/tutorials]
 
 protoc -I=./ --python_out=./ ./addressbook.proto
